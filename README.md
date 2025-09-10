@@ -24,4 +24,4 @@ Node 3: CST from DWG/I to your display color space (Rec.709, P3, etc.).
 
 Or can be used with DaVinci YRGB Color Managed
 
-In short, it enhances colors and contrast in a perceptually natural way, protects skin tones, and fits neatly in a scene-referred workflow between camera input and display output.
+
