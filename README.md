@@ -1,4 +1,4 @@
-# Den-Saty.dctl
+# Saturation.dctl
 For RCM Color Managment
 This DCTL is a color and density enhancer that makes images look richer and more cinematic, while keeping everything natural and perceptually balanced.
 
